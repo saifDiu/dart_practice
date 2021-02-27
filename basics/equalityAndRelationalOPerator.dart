@@ -7,4 +7,8 @@ void main(){
   print(age > 13); //return true
 
   print(number != 15); //return false.. Another operators are >= and <= to comapre . 
+
+  print(number is String); // is operator 
+  print(number is int);
+  print(number is! int); // is! (is not operator)
 }
