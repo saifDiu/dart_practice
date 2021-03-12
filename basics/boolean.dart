@@ -1,4 +1,3 @@
-import 'dart:ffi';
 
 void main(){
   bool is_true = false; //decalration of boolean variables
